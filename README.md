@@ -1,2 +1,2 @@
 # c_programming
-procedure oriented progrraming  concepts using c
+procedure oriented programming  concepts using c
